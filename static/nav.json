@@ -13,6 +13,11 @@
 		"desc": "绿软、汉化软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
+		"name": "520解说",
+		"href": "https://www.youtube.com/@LRH520",
+		"desc": "软件分享",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
 		"name": "殁漂遥",
 		"href": "https://www.mpyit.com/",
 		"desc": "分类齐全，不定时修改下载地址获取方式",
