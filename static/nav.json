@@ -8,6 +8,11 @@
 		"desc": "软件安全与病毒分析,逆向、破解、技术",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
+		"name": "youtebe镜像网站导航",
+		"href": "http://www.youtube.com/",
+		"desc": "镜像网站导航",
+		"logo": "static/icons/dayanzai.me.ico"
+	}, {
 		"name": "镜像网站导航",
 		"href": "http://www.dayanzai.me/",
 		"desc": "镜像网站导航",
